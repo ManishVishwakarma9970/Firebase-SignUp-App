@@ -50,17 +50,15 @@ Built with **Kotlin, Android Studio, and Material Design Components**.
 ---
 
 ## 📸 Screenshots
-Create a `screenshots/` folder and add images with these names for README previews:
-- `screenshots/splash.png`
-- `screenshots/signup.png`
 
-Markdown preview in README:
-```md
-![Splash Screen](screenshots/splash.png)
-![Sign Up](screenshots/signup.png)
-```
+### Splash Screen
+<img src="screenshots/splash.png.jpg" alt="Splash Screen" width="300"/>
 
 ---
+
+### SignUp Screen
+<img src="screenshots/signup.png.jpg" alt="SignUp Screen" width="300"/>
+
 
 ## 📦 APK (Download)
 Check the **Releases** section for the latest APK build:
